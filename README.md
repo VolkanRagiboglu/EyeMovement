@@ -48,7 +48,8 @@ You can customize this project in various ways:
 Modify the colors, sizes, or shapes of the eyes and pupils by editing the CSS in styles.css.
 Adjust the animation behavior in eyes.js, such as the speed or range of eye movement.
 Add more HTML elements or additional animations to create a more complex interactive experience.
-Credits
+
+## Credits
 
 This project was created as a simple example of interactive web animation. Feel free to use and modify it for your own purposes, and don't forget to credit the original creators if you use it in your projects.
 
