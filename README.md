@@ -52,4 +52,4 @@ Credits
 
 This project was created as a simple example of interactive web animation. Feel free to use and modify it for your own purposes, and don't forget to credit the original creators if you use it in your projects.
 
-License: MIT Licenses
+## License: MIT Licenses
